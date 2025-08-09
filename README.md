@@ -1,4 +1,4 @@
-# Roblox Player Statistics
+# Roblox Statistics
 
 ## BEFORE OPENING
 Make sure you have **Python 3.1 or above** and **matplotlib**.
