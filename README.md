@@ -31,9 +31,9 @@ If they have VC, press **Add (w/ VC)**. If not, press **Add (w/o VC)**.
 **Generate Charts** makes 2 Charts from the age you have collected and saves them to the *charts/* Folder. Player Age Distribution (Age Group) and Voice Chat Usage. (I don't know what else to make other than those 2)
 
 ## NOTE:
-This is only used in research purpose of my own for how old are the Roblox players, and whether they have Voice Chat enabled or disabled. This application only serves the purpose of collecting their age and voice chat option (if the game has a voice chat icon on top of their username or by checking the player list) and using them for a chart.
+This is only used for my research purposes to determine how old the Roblox players are and whether they have voice chat enabled or disabled. This application only serves the purpose of collecting their age and voice chat option (if the game has a voice chat icon on top of their username or by checking the player list) and using them for a chart. The results will help in understanding the demographics of the Roblox community and how voice chat features are used among different age groups. The data could also show the overall gaming experience and social interactions within the Roblox platform.
 
 ## MY EXPERIENCES CODING THIS:
-I got bored so I got curious and decided to code this in like 2 hours and use it in a booth experience games like Rate My Avatar 2, Booth Game, and similar game. I'm actually running out of things to say in this part, I wanted to know how old they are and if they have voice chat.
+I got bored, so I got curious and decided to code this in like 2 hours and use it in booth experience games like Rate My Avatar 2, Booth Game, and similar games. I'm actually running out of things to say in this part. I wanted to know how old they are and if they have voice chat.
 
 Also the code is so garbage, I know. I'm kind of new at this coding language but this is the best I can do.
