@@ -1,6 +1,6 @@
 @echo off
-:: Launch Roblox Age Statistics
-echo Starting Roblox Player Statistics...
+:: Launch Roblox Age Statistics using cmd
+echo Starting Roblox Age Statistics...
 echo.
 
 :: Try to run Python with the script
@@ -12,7 +12,7 @@ if %errorlevel% == 9009 (
     python3 roblox_age_statistics.py
 )
 
-:: Check if script was not found
+:: Error if the python script is not found
 if %errorlevel% == 2 (
     echo.
     echo ERROR: Could not find 'roblox_age_statistics.py'
@@ -21,7 +21,7 @@ if %errorlevel% == 2 (
     pause
 )
 
-:: If Python is not installed
+:: Error if Python is not installed
 if %errorlevel% == 9009 (
     echo.
     echo ERROR: Python not found.
@@ -31,5 +31,4 @@ if %errorlevel% == 9009 (
 )
 
 echo.
-echo Tracker closed.
-pause
+echo Roblox Age Statistics closed.
