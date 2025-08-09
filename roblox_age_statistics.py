@@ -27,7 +27,8 @@ class RobloxTracker:
         self.root.geometry("850x900")
         self.root.resizable(True, True)
 
-        # Green Theme (I suck at color picking, it's messy but it's green so that's my aesthetic)
+        # Green Theme (I suck at color picking, it's messy but it's green so that's my aesthetic.)
+        # You can change this to any color you desire if you want.
         self.theme = {
             "bg": "#626F47",
             "fg": "#F5ECD5",
