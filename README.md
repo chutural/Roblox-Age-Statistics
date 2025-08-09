@@ -28,7 +28,7 @@ If they have VC, press **Add (w/ VC)**. If not, press **Add (w/o VC)**.
 
 **Save Data** will save your list to *data/roblox_players.csv* which shows Age, Players, VCE (Voice Chat Enabled), and VCD (Voice Chat Disabled) with the amount of them which you can use to make a statistics (I actually don't know how to do more)
 
-**Generate Charts** makes 2 Charts from the age you have collected and saves them to the *charts/* Folder. Player Age Distribution (Age Group) and Voice Chat Usage. (I don't know what else to make other than those 2)
+**Generate Charts** makes 2 Charts from the age you have collected and saves them to the *charts* Folder. Player Age Distribution (Age Group) and Voice Chat Usage. (I don't know what else to make other than those 2)
 
 Also the **Theme** is Green, don't mind that since that's the color I love to use the most :P.
 
