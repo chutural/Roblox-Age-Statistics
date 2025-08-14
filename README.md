@@ -15,14 +15,18 @@ pip install matplotlib
 
 
 ## To start the app:
-1. Double-click `start_app.bat`.
+1. Double-click `start_app.bat`. (Used to open the Python script)
 2. Make sure all files are in this exact directory.
 3. The application will open.
+
+Although I would recommend organizing the folder by using the unzipped folder.
 
 ## How to use the Statistics:
 Type an age on the top and then check if they have Voice Chat.
 
 If they have VC, press **Add (w/ VC)**. If not, press **Add (w/o VC)**.
+
+Basically just put an age, and then press a button followed from above this sentences.
 
 **Statistics** will show stuff and the **Log** will show the ages you have typed, if they have VC, and the timestamp when you added it.
 
